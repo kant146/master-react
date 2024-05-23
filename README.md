@@ -3,7 +3,7 @@
 
 This Repo contains multiple react projects.
 <br>
-![Visitors](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/yourusername/yourrepo)
+![Visitors](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/kant146/master-react)
 
 
 
