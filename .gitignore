@@ -1,0 +1,39 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+/one/node_modules
+/two/node_modules
+/three/node_modules
+/four/node_modules
+/five/node_modules
+/ssr/node_modules
+/buildreact/node_modules
+
+/.pnp
+.pnp.js
+
+# testing
+/coverage
+
+# production
+/one/build
+/two/build
+/three/build
+/four/build
+/five/build
+/ssr/build
+/buildreact/build
+
+# misc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+.vercel
