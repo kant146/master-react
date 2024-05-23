@@ -2,6 +2,8 @@
 # React Master
 
 This Repo contains multiple react projects.
+![Visitors](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/yourusername/yourrepo)
+
 
 
 ## Demo
